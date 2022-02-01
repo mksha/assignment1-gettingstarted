@@ -15,7 +15,9 @@ def welcome_assignment_answers(question):
         "42b76fe51778764973077a5a94056724",
         "Is MD5 a secured hashing algorithm? - Yes/No": "No",
         "What layer from the TCP/IP model the protocol DHCP belongs to? - The answer should be a numeric number": 5,
-        "What layer of the TCP/IP model the protocol TCP belongs to? - The answer should be a numeric number": 4}
+        "What layer of the TCP/IP model the protocol TCP belongs to? - The answer should be a numeric number": 4,
+        "": "mtls"
+    }
     # if question == "Are encoding and encryption the same? - Yes/No":
     #     answer = "No"
     # elif question == "Is it possible to decrypt a message without a key? - Yes/No":
